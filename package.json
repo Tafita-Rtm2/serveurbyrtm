@@ -1,12 +1,12 @@
 {
-  "name": "code-validator",
+  "name": "validation-abonnement",
   "version": "1.0.0",
-  "description": "API de validation de codes uniques avec expiration",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
