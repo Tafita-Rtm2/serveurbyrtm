@@ -16,8 +16,8 @@ if (!fs.existsSync(DB_FILE)) {
     "1206": null,
     "1212": null,
     "1215": null,
-    "8281": null,
-    "1217": null,
+    "8280": null,
+    "1210": null,
     "1995": null
   }, null, 2));
 }
