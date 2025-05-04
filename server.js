@@ -23,6 +23,16 @@ if (!fs.existsSync(DB_FILE)) {
     "1203": null,
     "8288": null,
     "1204": null,
+    "1207": null,
+    "1213": null,
+    "1216": null,
+    "8281": null,
+    "1210": null,
+    "1205": null,
+    "1206": null,
+    "1207": null,
+    "8289": null,
+    "1209": null,
     "1995": null
   }, null, 2));
 }
