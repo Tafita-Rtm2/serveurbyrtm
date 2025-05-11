@@ -33,6 +33,9 @@ if (!fs.existsSync(DB_FILE)) {
     "1207": null,
     "8289": null,
     "1209": null,
+    "1234": null,
+    "2345": null,
+    "6789": null,
     "1995": null
   }, null, 2));
 }
