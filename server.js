@@ -27,6 +27,8 @@ if (!fs.existsSync(DB_FILE)) {
     "1213": null,
     "1216": null,
     "8281": null,
+    "2016": null,
+    "2017": null,
     "1210": null,
     "1205": null,
     "1206": null,
